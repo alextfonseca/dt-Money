@@ -1,7 +1,8 @@
-import { useState } from "react";
+import React, { useState } from "react";
 import Modal from "react-modal";
 import { Dashboard } from "./components/Dashboard";
 import { Header } from "./components/header";
+import { NewTransactionModal } from "./components/NewTransactionModal";
 import { GlobalStyle } from "./styles/global";
 
 // onde o modal vai abrir
@@ -22,12 +23,11 @@ export function App() {
     <>
       <Header onOpenNewTransactionModal={handleOpenNewTransactionModal} />
       <Dashboard />
-      <Modal
+
+      <NewTransactionModal
         isOpen={isNewTransactionModal}
         onRequestClose={handleCloseNewTransactionModal}
-      >
-        <h2>oi</h2>
-      </Modal>
+      />
       <GlobalStyle />
     </>
   );
