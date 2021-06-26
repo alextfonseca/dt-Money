@@ -1,46 +1,71 @@
-# Getting Started with Create React App
+# Dt Money
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<img src="./public/dtmoney.png" alt="exemplo imagem">
 
-## Available Scripts
+> Projeto do segundo capitulo do curso ignite de React.js, criado com React.js, miragejs, polished, react-modal, styled-components e TypeScript.
 
-In the project directory, you can run:
+## 💻 Pré-requisitos
 
-### `yarn start`
+Antes de começar, verifique se você atendeu aos seguintes requisitos:
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+<!---Estes são apenas requisitos de exemplo. Adicionar, duplicar ou remover conforme necessário--->
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+- Você instalou a versão mais recente do `< node / npm ou yarn >`
+- Você tem uma máquina `<Windows / Linux / Mac >`.
 
-### `yarn test`
+## 🚀 Instalando o projeto <BlogNews> na sua maquina
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Para instalar o projeto, siga estas etapas:
 
-### `yarn build`
+Linux e macOS:
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+```bash
+git clone https://github.com/alextfonseca/dt-Money.git
+$ cd dt-Money
+$ yarn ou npm
+$ yarn start ou npm start
+```
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Windows:
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+```bash
+git clone https://github.com/alextfonseca/dt-Money.git
+$ cd dt-Money
+$ yarn ou npm
+$ yarn start ou npm start
+```
 
-### `yarn eject`
+## 🧾 Usando o projeto
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+Com o projeto dt money você pode controlar seu dinheiro:
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+# <a href="https://dt-money-three.vercel.app">Acesse o projeto</a>
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+## 🧑‍💻 Criador
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/alextfonseca">
+        <img src="https://github.com/alextfonseca.png" width="100px;" alt="Foto de Alex Teixeira da Fonseca no GitHub"/><br>
+        <sub>
+          <b>Alex Teixeira da Fonseca</b>
+        </sub>
+      </a>
+    </td>
+  </tr>
+</table>
 
-## Learn More
+## 😄 Me siga nas redes sociais<br>
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+<p align="left">
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+  <a href="https://www.linkedin.com/in/alex-teixeira-da-fonseca-5a99931a2/" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
+
+  <a href="https://wa.me/+5511976184659?text=Olá%20Alex" alt="WhatsApp">
+  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP"/></a>
+
+  <a href="https://www.instagram.com/devalextf/?hl=pt-br" alt="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"/></a>
+</p>
